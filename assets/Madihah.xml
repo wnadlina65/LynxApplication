@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MyResume>
+    <!-->Personal details<-->
+    <name>MADIHAH HANNANI</name>
+    <phone>01117829700</phone>
+    <email>madihahhashim99@gmail.com</email>
+    <address>No 251, jalan Harmoni 11, Taman Harmoni, 28700 Bentong, Pahang</address>
+    <position>Student</position>
+    <sociallinks>@madihahhannani</sociallinks>
+
+    <!-->Resume content<-->
+    <summary>I am degree student taking Computer Science at UiTM Jasin. I believe there is always something to learn because there's always something new.</summary>
+    <skills>
+        <skill id="1">Visual Studio Code</skill>
+        <skill id="2">Programming Languages : PHP, HTML, JAVA, C++</skill>
+        <skill id="3">Spoken Languages : Bahasa Malaysia, English</skill>
+    </skills>
+    <experiences>
+        <experiences id="1">2019: Joined micro:bit seminar</experiences>
+        <experiences id="2">2019: Develop e-SPBT system</experiences>
+        <experiences id="3">2019: A programmer at Twin Continent Sdn Bhd</experiences>
+    </experiences>
+    <educations>
+        <education id="1">SMAP Bentong, Pahang</education>
+        <education id="2">Diploma: UiTM Kampus Raub, Pahang (2017-2020)</education>
+        <education id="3">Degree: UiTM Kampus Jasin, Melaka (2020-2022)</education>
+    </educations>
+    <interests>
+        <interest id="1">Music</interest>
+    </interests>
+</MyResume>

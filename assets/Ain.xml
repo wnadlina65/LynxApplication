@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ResumeAin>
+    <!-->Personal details<-->
+    <Name>NUR AIN EMYLIA</Name>
+    <Age>22</Age>
+    <Phone>0136711470</Phone>
+    <Email>ainvauxh@gmail.com</Email>
+    <Address>Kg. Desa Bakti, Mentakab, Pahang</Address>
+    <Position>Programmer</Position>
+
+    <!-->Resume content<-->
+    <Summary>An ambitious programmer offering technical in programming analysis, application analysis and design</Summary>
+    <Programming>
+        <skill id="1">PHP</skill>
+        <skill id="2">HTML</skill>
+        <skill id="3">JAVA</skill>
+        <skill id="4">C++</skill>
+    </Programming>
+    <Languages>
+        <language id="1">Bahasa Melayu</language>
+        <language id="2">English</language>
+    </Languages>
+    <Experience>Internship (May 2019- Aug 2019) Programmer at Twin Continent Sdn Bhd</Experience>
+    <Educations>
+        <education id="1">SMK Seri Semantan</education>
+        <education id="2">Diploma of Computer Science</education>
+        <education id="3">Bachelor of Computer Science (Honours)</education>
+    </Educations>
+</ResumeAin>

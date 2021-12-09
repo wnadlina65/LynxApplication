@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Alya>
+    <name>SHAFIQAH ALYA</name>
+    <phone>0172412647</phone>
+    <email>shafiqahalya99@gmail.com</email>
+    <address>Seremban, Negeri Sembilan</address>
+    <summary>Seeking for an entry-level job in a high-level professional environment to begin my career and utilize what I have learned and acquired in my academic program to a real-life
+    </summary>
+    <education>
+        <edu id="1">Diploma of Computer Science (UITM)</edu>
+        <edu id="1">Bachelor of Computer Science (UITM)</edu>
+    </education>
+    <position>Web Developer</position>
+    <skills>
+        <skill id="1">Java</skill>
+        <skill id="2">Php</skill>
+        <skill id="3">Microsoft Office</skill>
+    </skills>
+    <interests>
+        <interest id="1">Travel</interest>
+        <interest id="2">Music</interest>
+        <interest id="3">Sports</interest>
+    </interests>
+    <experience>
+        <song id="1">Promoter At Parkson (2017)</song>
+        <song id="2">Web designer at AOne Plus (2019)</song>
+        <song id="3">Part-Time at ITWorld (2020)</song>
+    </experience>
+</Alya>

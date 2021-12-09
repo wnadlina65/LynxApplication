@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Resume>
+    <!-->Personal details<-->
+    <name>NURUL SYAHMINA</name>
+    <phone>0197418171</phone>
+    <email>nurulsyahmina18@gmail.com</email>
+    <address>Taman Inderapura</address>
+    <position>Programmer</position>
+    <social>facebook.com/nrlsyhmina</social>
+
+    <!-->Resume content<-->
+    <summary>I am a full time degree student of Computer Science in UiTM Jasin. </summary>
+    <skills>
+        <skill id="1">Microsoft Word</skill>
+        <skill id="2">Adobe Photoshop/Illustrator</skill>
+        <skill id="4">Programming languages: C++,HTML,Java,PHP,CSS,C#</skill>
+        <skill id="5">Proficient in Malay and English</skill>
+    </skills>
+    <experiences>Part Time Web Designer at PRS Web Design</experiences>
+    <educations>
+        <education id="1">SK Inderapura</education>
+        <education id="2">Diploma: UiTM Kampus Raub, Raub (2017-2020)</education>
+    </educations>
+    <interest>I am interest to in web development</interest>
+</Resume>
